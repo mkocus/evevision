@@ -29,6 +29,7 @@ const allowedAlliances = [
     99002003, // no value
     99009275, // the stars of northern moon
     1042504553, // slyce
+    99005724, // minions
 ]
 
 interface WelcomeState {
